@@ -1,6 +1,6 @@
 # Dispatch Load Balancer
 
-Spring Boot service that accepts delivery orders and a vehicle fleet and (Day 2) returns an
+Spring Boot service that accepts delivery orders and a vehicle fleet and returns an
 optimized dispatch plan: capacity-respecting, high-priority first, minimum travel distance
 (Haversine).
 
