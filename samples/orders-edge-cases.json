@@ -1,0 +1,52 @@
+{
+  "orders": [
+    {
+      "orderId": "EDGE001",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "address": "Connaught Place, Delhi, India",
+      "packageWeight": 500,
+      "priority": "HIGH"
+    },
+    {
+      "orderId": "EDGE002",
+      "latitude": 28.6304,
+      "longitude": 77.2177,
+      "address": "Janpath, Delhi, India",
+      "packageWeight": 90,
+      "priority": "HIGH"
+    },
+    {
+      "orderId": "EDGE003",
+      "latitude": 28.5672,
+      "longitude": 77.21,
+      "address": "Lajpat Nagar, Delhi, India",
+      "packageWeight": 90,
+      "priority": "MEDIUM"
+    },
+    {
+      "orderId": "EDGE004",
+      "latitude": 28.5245,
+      "longitude": 77.1855,
+      "address": "Saket, Delhi, India",
+      "packageWeight": 90,
+      "priority": "LOW"
+    },
+    {
+      "orderId": "EDGE005",
+      "latitude": 28.4089,
+      "longitude": 77.3178,
+      "address": "Sector 15, Faridabad, Haryana, India",
+      "packageWeight": 110,
+      "priority": "LOW"
+    },
+    {
+      "orderId": "EDGE006",
+      "latitude": 28.6692,
+      "longitude": 77.4538,
+      "address": "Raj Nagar, Ghaziabad, Uttar Pradesh, India",
+      "packageWeight": 70,
+      "priority": "HIGH"
+    }
+  ]
+}

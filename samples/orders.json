@@ -1,0 +1,84 @@
+{
+  "orders": [
+    {
+      "orderId": "ORD001",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "address": "Connaught Place, Delhi, India",
+      "packageWeight": 15,
+      "priority": "HIGH"
+    },
+    {
+      "orderId": "ORD002",
+      "latitude": 28.6139,
+      "longitude": 77.209,
+      "address": "Connaught Place, Delhi, India",
+      "packageWeight": 10,
+      "priority": "MEDIUM"
+    },
+    {
+      "orderId": "ORD003",
+      "latitude": 28.7041,
+      "longitude": 77.1025,
+      "address": "Karol Bagh, Delhi, India",
+      "packageWeight": 28,
+      "priority": "LOW"
+    },
+    {
+      "orderId": "ORD004",
+      "latitude": 28.5355,
+      "longitude": 77.391,
+      "address": "Sector 18, Noida, Uttar Pradesh, India",
+      "packageWeight": 22,
+      "priority": "HIGH"
+    },
+    {
+      "orderId": "ORD005",
+      "latitude": 28.4595,
+      "longitude": 77.0266,
+      "address": "Cyber Hub, Gurgaon, Haryana, India",
+      "packageWeight": 35,
+      "priority": "MEDIUM"
+    },
+    {
+      "orderId": "ORD006",
+      "latitude": 28.5245,
+      "longitude": 77.1855,
+      "address": "Saket, Delhi, India",
+      "packageWeight": 18,
+      "priority": "HIGH"
+    },
+    {
+      "orderId": "ORD007",
+      "latitude": 28.6304,
+      "longitude": 77.2177,
+      "address": "Janpath, Delhi, India",
+      "packageWeight": 12,
+      "priority": "LOW"
+    },
+    {
+      "orderId": "ORD008",
+      "latitude": 28.5672,
+      "longitude": 77.21,
+      "address": "Lajpat Nagar, Delhi, India",
+      "packageWeight": 26,
+      "priority": "MEDIUM"
+    },
+    {
+      "orderId": "ORD009",
+      "latitude": 28.4089,
+      "longitude": 77.3178,
+      "address": "Sector 15, Faridabad, Haryana, India",
+      "packageWeight": 30,
+      "priority": "LOW"
+    },
+    {
+      "orderId": "ORD010",
+      "latitude": 28.6692,
+      "longitude": 77.4538,
+      "address": "Raj Nagar, Ghaziabad, Uttar Pradesh, India",
+      "packageWeight": 20,
+      "priority": "HIGH"
+    }
+  ]
+}

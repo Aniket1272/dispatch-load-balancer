@@ -1,0 +1,58 @@
+{
+  "invalid-priority": {
+    "orders": [
+      {
+        "orderId": "X1",
+        "latitude": 28.6,
+        "longitude": 77.2,
+        "address": "Delhi",
+        "packageWeight": 5,
+        "priority": "URGENT"
+      }
+    ]
+  },
+  "invalid-latitude": {
+    "orders": [
+      {
+        "orderId": "X2",
+        "latitude": 120,
+        "longitude": 77.2,
+        "address": "Delhi",
+        "packageWeight": 5,
+        "priority": "HIGH"
+      }
+    ]
+  },
+  "negative-weight": {
+    "orders": [
+      {
+        "orderId": "X3",
+        "latitude": 28.6,
+        "longitude": 77.2,
+        "address": "Delhi",
+        "packageWeight": -5,
+        "priority": "HIGH"
+      }
+    ]
+  },
+  "duplicate-ids": {
+    "orders": [
+      {
+        "orderId": "D",
+        "latitude": 28.6,
+        "longitude": 77.2,
+        "address": "Delhi",
+        "packageWeight": 5,
+        "priority": "HIGH"
+      },
+      {
+        "orderId": "D",
+        "latitude": 28.7,
+        "longitude": 77.3,
+        "address": "Delhi",
+        "packageWeight": 6,
+        "priority": "LOW"
+      }
+    ]
+  }
+}
